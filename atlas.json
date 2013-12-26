@@ -3,10 +3,10 @@
     "cover.html",
     "01-titlepage.html",
     "02-copyright.html",
-    "03-toc.html",
-    "04-preface.html",
-    "05-chapter.html",
-    "06-appendix.html"
+    "03-Chapter1.html",
+    "04-Chapter2.html",
+    "05-Chapter3.html",
+    "06-Chapter4.html"
   ],
   "formats": {
     "pdf": {
